@@ -1,4 +1,4 @@
-## ERPNext includes these public works
+﻿## ERPNext includes these public works
 
 For Frappé Framework, please see attributions.md at https://github.com/frappe/frappe/
 
